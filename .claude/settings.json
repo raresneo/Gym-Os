@@ -1,8 +1,31 @@
 {
   "permissions": {
-    "defaultMode": "dontAsk",
+    "defaultMode": "bypassPermissions",
     "allow": [
-      "mcp__41949652-1f5e-4f4b-b639-595a210822a2__*"
+      "mcp__41949652-1f5e-4f4b-b639-595a210822a2__*",
+      "mcp__META_ADS__*",
+      "mcp__GYM_OS__*",
+      "mcp__github__*",
+      "mcp__Gmail__*",
+      "mcp__Google_Calendar__*",
+      "mcp__Google_Drive__*",
+      "mcp__ClickUp__*",
+      "mcp__Canva__*",
+      "mcp__Figma__*",
+      "mcp__HubSpot__*",
+      "mcp__Ahrefs__*",
+      "mcp__Apollo_io__*",
+      "mcp__Stripe__*",
+      "mcp__Make__*",
+      "mcp__Vercel__*",
+      "mcp__HEY_REACH__*",
+      "mcp__higgsfield__*",
+      "Bash(*)",
+      "Read(*)",
+      "Edit(*)",
+      "Write(*)",
+      "Glob(*)",
+      "Grep(*)"
     ]
   }
 }
