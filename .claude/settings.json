@@ -1,5 +1,6 @@
 {
   "permissions": {
+    "defaultMode": "dontAsk",
     "allow": [
       "mcp__41949652-1f5e-4f4b-b639-595a210822a2__*"
     ]
